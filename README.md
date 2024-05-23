@@ -93,7 +93,7 @@ def ola_mundo():
 ola_mundo = meu_decorador(ola_mundo)
 ola_mundo()
 ```
-### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> Primeiro Decorador Açucar Sintax:
+### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> Primeiro Decorador Açúcar Sintax:
 ```
 def meu_decorador(funcao):
     def envelope():
